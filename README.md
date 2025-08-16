@@ -136,9 +136,9 @@ With over **15 years** of experience in software development, I specialize in cr
 
 ## 📊 Experience Highlights
 
-<table style="width: 100%; border: 1px solid #30363d;">
+<table>
 <tr>
-<td width="50%" valign="top" style="padding: 15px;">
+<td width="50%" valign="top">
 
 ### 🏢 Professional Journey
 - **15+ Years** in Software Development
@@ -148,7 +148,7 @@ With over **15 years** of experience in software development, I specialize in cr
 - **3+ Years** in Cloud Architecture
 
 </td>
-<td width="50%" valign="top" style="padding: 15px;">
+<td width="50%" valign="top">
 
 ### 🎯 Key Achievements
 - Led development teams of **15+ developers**
