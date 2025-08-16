@@ -13,6 +13,34 @@ CSS styling for responsive tables:
 - Mobile responsive: stacks vertically on small screens
 -->
 
+<style>
+/* Override GitHub's default table constraints */
+.markdown-body table {
+  width: 100% !important;
+  max-width: none !important;
+  display: table !important;
+}
+
+/* Ensure table cells have proper alignment and spacing */
+td {
+  vertical-align: top;
+  padding: 15px;
+  width: 50% !important;
+}
+
+/* Responsive behavior for mobile devices */
+@media (max-width: 768px) {
+  table {
+    width: 100% !important;
+  }
+  td {
+    width: 100% !important;
+    display: block !important;
+    margin-bottom: 20px;
+  }
+}
+</style>
+
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=xenoveni&color=blue&style=flat-square)
