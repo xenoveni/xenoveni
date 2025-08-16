@@ -5,7 +5,6 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=xenoveni&color=blue&style=flat-square)
   ![GitHub Followers](https://img.shields.io/github/followers/xenoveni?label=Followers&style=social)
-  ![GitHub Stars](https://img.shields.io/github/stars/xenoveni?label=Stars&style=social)
   
 </div>
 
@@ -53,6 +52,42 @@ With over **15 years** of experience in software development, I specialize in cr
 
 ---
 
+## 🎨 **Tech Stack Visualization**
+
+<div align="center">
+  
+  ```mermaid
+  graph TD
+      A[Full-Stack Development] --> B[Frontend]
+      A --> C[Backend]
+      A --> D[Game Development]
+      A --> E[Creative Tools]
+      
+      B --> F[React/TypeScript]
+      B --> G[HTML5/CSS3]
+      
+      C --> H[Python/Node.js]
+      C --> I[C#/.NET]
+      C --> J[Databases]
+      
+      D --> K[Unity]
+      D --> L[Unreal Engine]
+      
+      E --> M[Blender]
+      E --> N[Photoshop]
+      
+      J --> O[PostgreSQL]
+      J --> P[MongoDB]
+      
+      style A fill:#58A6FF
+      style D fill:#4ECDC4
+      style E fill:#FF6B6B
+  ```
+  
+</div>
+
+---
+
 ## 🎯 Specializations
 
 ### 🔧 Custom Application Development
@@ -88,6 +123,7 @@ With over **15 years** of experience in software development, I specialize in cr
 ### 🎯 Key Achievements
 - Led development teams of **15+ developers**
 - Delivered **50+ custom applications** for various industries
+- **1000+ commits** across private and public repositories
 - Reduced application deployment time by **60%**
 - Improved system performance by **300%** through optimization
 - Mentored **20+ junior developers** to senior positions
@@ -131,7 +167,7 @@ With over **15 years** of experience in software development, I specialize in cr
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xenophonvenios)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xenophon-venios/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xenoveni)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rxresu.me/xenophonvenios/web-developer)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@xenophonvenios.com)
@@ -144,11 +180,22 @@ With over **15 years** of experience in software development, I specialize in cr
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xenoveni&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E)
+  ### 🚀 **Commit Power** - Your Development Velocity
+  
+  ![Total Commits](https://img.shields.io/badge/Total_Commits-1000%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white)
+  ![Years Active](https://img.shields.io/badge/Years_Active-15%2B-blue?style=for-the-badge&logo=github&logoColor=white)
+  
+  ---
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xenoveni&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&hide=contribs,issues,prs)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xenoveni&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xenoveni&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
+  
+  ### 📊 **Activity Overview**
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xenoveni&theme=react-dark&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=58A6FF&color=8B949E&bg_color=0D1117)
   
 </div>
 
@@ -183,6 +230,14 @@ With over **15 years** of experience in software development, I specialize in cr
   ### 🚀 **Ready to Build Something Amazing?**
   
   *Let's create the future together, one line of code at a time.*
+  
+  ---
+  
+  ### 📱 **Connect & Collaborate**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xenophon-venios/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xenoveni)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=globe&logoColor=white)](https://rxresu.me/xenophonvenios/web-developer)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=xenoveni&color=blue&style=flat-square)
   
