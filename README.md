@@ -38,9 +38,9 @@ With over **15 years** of experience in software development, I specialize in cr
 
 ## 🛠️ Technical Skills
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 20px;">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
@@ -55,7 +55,7 @@ With over **15 years** of experience in software development, I specialize in cr
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 20px;">
 
 ### 🎮 Game Development & Creative Tools
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)<br>
