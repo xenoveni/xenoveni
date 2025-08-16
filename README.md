@@ -1,34 +1,6 @@
 # 👨‍💻 Xenophon Venios
 ## Senior Full-Stack Developer & Software Architect
 
-<style>
-/* Override GitHub's default table constraints */
-.markdown-body table {
-  width: 100% !important;
-  max-width: none !important;
-  display: table !important;
-}
-
-/* Ensure table cells have proper alignment and spacing */
-td {
-  vertical-align: top;
-  padding: 15px;
-  width: 50% !important;
-}
-
-/* Responsive behavior for mobile devices */
-@media (max-width: 768px) {
-  table {
-    width: 100% !important;
-  }
-  td {
-    width: 100% !important;
-    display: block !important;
-    margin-bottom: 20px;
-  }
-}
-</style>
-
 
 
 <div align="center">
