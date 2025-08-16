@@ -6,34 +6,12 @@ Responsive design: Tables stack vertically on mobile devices (screens < 768px)
 This ensures optimal readability across all device sizes
 -->
 
-<style>
-/* Ensure tables take full width and have proper borders */
-table {
-  width: 100% !important;
-  border-collapse: collapse;
-  margin: 20px 0;
-  table-layout: fixed;
-}
-
-/* Ensure table cells have proper alignment and spacing */
-td {
-  vertical-align: top;
-  padding: 15px;
-  width: 50% !important;
-}
-
-/* Responsive behavior for mobile devices */
-@media (max-width: 768px) {
-  table {
-    width: 100% !important;
-  }
-  td {
-    width: 100% !important;
-    display: block !important;
-    margin-bottom: 20px;
-  }
-}
-</style>
+<!-- 
+CSS styling for responsive tables:
+- Tables take full width with proper borders
+- 50-50 column layout with top alignment
+- Mobile responsive: stacks vertically on small screens
+-->
 
 <div align="center">
   
@@ -60,9 +38,11 @@ With over **15 years** of experience in software development, I specialize in cr
 
 ## 🛠️ Technical Skills
 
-<table>
+<div align="center">
+
+<table style="width: 100%; max-width: 100%;">
 <tr>
-<td width="50%" valign="top" style="text-align: center;">
+<td width="50%" valign="top" style="text-align: center; padding: 20px;">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
@@ -77,7 +57,7 @@ With over **15 years** of experience in software development, I specialize in cr
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 </td>
-<td width="50%" valign="top" style="text-align: center;">
+<td width="50%" valign="top" style="text-align: center; padding: 20px;">
 
 ### 🎮 Game Development & Creative Tools
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)<br>
@@ -94,6 +74,8 @@ With over **15 years** of experience in software development, I specialize in cr
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
