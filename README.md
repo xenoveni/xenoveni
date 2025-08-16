@@ -9,16 +9,17 @@ This ensures optimal readability across all device sizes
 <style>
 /* Ensure tables take full width and have proper borders */
 table {
-  width: 100%;
+  width: 100% !important;
   border-collapse: collapse;
   margin: 20px 0;
+  table-layout: fixed;
 }
 
 /* Ensure table cells have proper alignment and spacing */
 td {
   vertical-align: top;
   padding: 15px;
-  width: 50%;
+  width: 50% !important;
 }
 
 /* Responsive behavior for mobile devices */
@@ -61,7 +62,7 @@ With over **15 years** of experience in software development, I specialize in cr
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="text-align: center;">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
@@ -76,7 +77,7 @@ With over **15 years** of experience in software development, I specialize in cr
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="text-align: center;">
 
 ### 🎮 Game Development & Creative Tools
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)<br>
@@ -291,9 +292,9 @@ With over **15 years** of experience in software development, I specialize in cr
   
   ---
   
-  ### 📊 **Complete Activity History**
+  ### 📊 **All-Time Activity History**
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xenoveni&theme=react-dark&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=58A6FF&color=8B949E&bg_color=0D1117)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xenoveni&theme=react-dark&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=58A6FF&color=8B949E&bg_color=0D1117&custom_title=All-Time%20GitHub%20Activity&hide_title=false)
   
 </div>
 
