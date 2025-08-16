@@ -52,26 +52,15 @@ td {
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 > **"Code is poetry, and every application tells a story."**
 
 With over **15 years** of experience in software development, I specialize in creating **custom applications** that solve real-world problems. I'm passionate about clean architecture, scalable solutions, and delivering exceptional user experiences.
-
-</td>
-<td width="50%" valign="top">
 
 ### 🎯 What I Do
 - **Custom Application Development** - Building tailored solutions for unique business needs
 - **Full-Stack Development** - End-to-end application development from concept to deployment
 - **Software Architecture** - Designing robust, scalable, and maintainable systems
 - **Technical Leadership** - Mentoring teams and driving technical excellence
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -116,10 +105,6 @@ With over **15 years** of experience in software development, I specialize in cr
 
 ## 🎨 **Tech Stack Visualization**
 
-<table>
-<tr>
-<td width="100%" valign="top">
-
 <div align="center">
   
   ```mermaid
@@ -151,10 +136,6 @@ With over **15 years** of experience in software development, I specialize in cr
   ```
   
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -200,9 +181,9 @@ With over **15 years** of experience in software development, I specialize in cr
 
 ## 📊 Experience Highlights
 
-<table>
+<table style="width: 100%; border: 1px solid #30363d;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 15px;">
 
 ### 🏢 Professional Journey
 - **15+ Years** in Software Development
@@ -212,7 +193,7 @@ With over **15 years** of experience in software development, I specialize in cr
 - **3+ Years** in Cloud Architecture
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 15px;">
 
 ### 🎯 Key Achievements
 - Led development teams of **15+ developers**
@@ -285,10 +266,6 @@ With over **15 years** of experience in software development, I specialize in cr
 
 ## 📫 Get In Touch
 
-<table>
-<tr>
-<td width="100%" valign="top">
-
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xenophon-venios/)
@@ -298,17 +275,9 @@ With over **15 years** of experience in software development, I specialize in cr
   
 </div>
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📈 GitHub Stats
-
-<table>
-<tr>
-<td width="100%" valign="top">
 
 <div align="center">
   
@@ -335,17 +304,9 @@ With over **15 years** of experience in software development, I specialize in cr
   
 </div>
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🎯 Featured Projects
-
-<table>
-<tr>
-<td width="100%" valign="top">
 
 <div align="center">
   
@@ -357,17 +318,9 @@ With over **15 years** of experience in software development, I specialize in cr
   
 </div>
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🌟 Fun Facts
-
-<table>
-<tr>
-<td width="100%" valign="top">
 
 - 🎮 **Gamer at Heart** - Love creating games as much as playing them
 - 🎨 **Creative Soul** - Believe code and art are inseparable
@@ -375,19 +328,11 @@ With over **15 years** of experience in software development, I specialize in cr
 - 🌍 **Global Perspective** - Worked with teams from 15+ countries
 - ☕ **Coffee Enthusiast** - Fueled by caffeine and passion for code
 
-</td>
-</tr>
-</table>
-
 ---
 
-## 🚀 **Ready to Build Something Amazing?**
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
 <div align="center">
+  
+  ### 🚀 **Ready to Build Something Amazing?**
   
   *Let's create the future together, one line of code at a time.*
   
@@ -402,10 +347,6 @@ With over **15 years** of experience in software development, I specialize in cr
   ![Profile Views](https://komarev.com/ghpvc/?username=xenoveni&color=blue&style=flat-square)
   
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
