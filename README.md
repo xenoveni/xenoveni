@@ -134,7 +134,7 @@ With over **15 years** of experience in software development, I specialize in cr
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xenophonvenios)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xenoveni)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rxresu.me/xenophonvenios/web-developer)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@xenophonvenios.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@xenophonvenios.com)
   
 </div>
 
@@ -190,4 +190,4 @@ With over **15 years** of experience in software development, I specialize in cr
 
 ---
 
-*Last updated: July 2025* ⏰
+*Last updated: August 2025* ⏰
