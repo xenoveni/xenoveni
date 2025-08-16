@@ -1,45 +1,7 @@
 # 👨‍💻 Xenophon Venios
 ## Senior Full-Stack Developer & Software Architect
 
-<!-- 
-Responsive design: Tables stack vertically on mobile devices (screens < 768px)
-This ensures optimal readability across all device sizes
--->
 
-<!-- 
-CSS styling for responsive tables:
-- Tables take full width with proper borders
-- 50-50 column layout with top alignment
-- Mobile responsive: stacks vertically on small screens
--->
-
-<style>
-/* Override GitHub's default table constraints */
-.markdown-body table {
-  width: 100% !important;
-  max-width: none !important;
-  display: table !important;
-}
-
-/* Ensure table cells have proper alignment and spacing */
-td {
-  vertical-align: top;
-  padding: 15px;
-  width: 50% !important;
-}
-
-/* Responsive behavior for mobile devices */
-@media (max-width: 768px) {
-  table {
-    width: 100% !important;
-  }
-  td {
-    width: 100% !important;
-    display: block !important;
-    margin-bottom: 20px;
-  }
-}
-</style>
 
 <div align="center">
   
@@ -66,9 +28,7 @@ With over **15 years** of experience in software development, I specialize in cr
 
 ## 🛠️ Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -82,9 +42,6 @@ With over **15 years** of experience in software development, I specialize in cr
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
-
 ### 🎮 Game Development & Creative Tools
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
@@ -97,9 +54,7 @@ With over **15 years** of experience in software development, I specialize in cr
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
