@@ -6,6 +6,34 @@ Responsive design: Tables stack vertically on mobile devices (screens < 768px)
 This ensures optimal readability across all device sizes
 -->
 
+<style>
+/* Ensure tables take full width and have proper borders */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+/* Ensure table cells have proper alignment and spacing */
+td {
+  vertical-align: top;
+  padding: 15px;
+  width: 50%;
+}
+
+/* Responsive behavior for mobile devices */
+@media (max-width: 768px) {
+  table {
+    width: 100% !important;
+  }
+  td {
+    width: 100% !important;
+    display: block !important;
+    margin-bottom: 20px;
+  }
+}
+</style>
+
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=xenoveni&color=blue&style=flat-square)
@@ -124,7 +152,7 @@ With over **15 years** of experience in software development, I specialize in cr
 - **Performance Optimization** - FPS and memory optimization
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎨 Creative & Design
 - **3D Modeling** - Blender-based asset creation
@@ -158,7 +186,7 @@ With over **15 years** of experience in software development, I specialize in cr
 - **3+ Years** in Cloud Architecture
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 Key Achievements
 - Led development teams of **15+ developers**
@@ -187,7 +215,7 @@ With over **15 years** of experience in software development, I specialize in cr
 - **Cloud-Native Solutions** - Microservices and containerization
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌱 What I'm Learning
 - **Advanced AI/ML** - Deep learning and neural networks
@@ -214,7 +242,7 @@ With over **15 years** of experience in software development, I specialize in cr
 - **Educational Content** - Developer tutorials and courses
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💬 Ask Me About
 - **Software Architecture** - Best practices and patterns
