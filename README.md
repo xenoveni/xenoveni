@@ -12,6 +12,8 @@
 
 ## 🚀 About Me
 
+<div align="center">
+
 > **"Code is poetry, and every application tells a story."**
 
 With over **15 years** of experience in software development, I specialize in creating **custom applications** that solve real-world problems. I'm passionate about clean architecture, scalable solutions, and delivering exceptional user experiences.
@@ -22,9 +24,13 @@ With over **15 years** of experience in software development, I specialize in cr
 - **Software Architecture** - Designing robust, scalable, and maintainable systems
 - **Technical Leadership** - Mentoring teams and driving technical excellence
 
+</div>
+
 ---
 
 ## 🛠️ Technical Skills
+
+<div align="center">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,6 +55,8 @@ With over **15 years** of experience in software development, I specialize in cr
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
@@ -90,6 +98,8 @@ With over **15 years** of experience in software development, I specialize in cr
 
 ## 🎯 Specializations
 
+<div align="center">
+
 ### 🔧 Custom Application Development
 - **Enterprise Solutions** - Scalable business applications
 - **Web Applications** - Modern, responsive web solutions
@@ -109,9 +119,13 @@ With over **15 years** of experience in software development, I specialize in cr
 - **UI/UX Design** - User-centered design principles
 - **Visual Effects** - Shader development and VFX
 
+</div>
+
 ---
 
 ## 📊 Experience Highlights
+
+<div align="center">
 
 ### 🏢 Professional Journey
 - **15+ Years** in Software Development
@@ -128,9 +142,13 @@ With over **15 years** of experience in software development, I specialize in cr
 - Improved system performance by **300%** through optimization
 - Mentored **20+ junior developers** to senior positions
 
+</div>
+
 ---
 
 ## 🚀 Current Focus
+
+<div align="center">
 
 ### 🔭 What I'm Working On
 - **Custom Enterprise Applications** - Building scalable business solutions
@@ -144,9 +162,13 @@ With over **15 years** of experience in software development, I specialize in cr
 - **Quantum Computing** - Future-proofing applications
 - **Extended Reality (XR)** - AR/VR development
 
+</div>
+
 ---
 
 ## 🤝 Collaboration & Networking
+
+<div align="center">
 
 ### 👯 Looking to Collaborate On
 - **Open Source Projects** - Contributing to meaningful initiatives
@@ -160,6 +182,8 @@ With over **15 years** of experience in software development, I specialize in cr
 - **Game Development** - Unity, Unreal, and game design
 - **Career Growth** - Developer progression and leadership
 - **Technical Challenges** - Problem-solving approaches
+
+</div>
 
 ---
 
@@ -187,11 +211,15 @@ With over **15 years** of experience in software development, I specialize in cr
   
   ---
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xenoveni&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&hide=contribs,issues,prs)
+  ### 💻 **Most Used Languages**
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xenoveni&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+  > *Note: These stats show languages from public repositories. Most of my work is on private projects.*
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xenoveni&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xenoveni&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8&exclude_repo=xenoveni)
+  
+  **Primary Languages:** Python, JavaScript, TypeScript, C#, HTML/CSS
+  
+  ---
   
   ### 📊 **Activity Overview**
   
@@ -217,11 +245,15 @@ With over **15 years** of experience in software development, I specialize in cr
 
 ## 🌟 Fun Facts
 
+<div align="center">
+
 - 🎮 **Gamer at Heart** - Love creating games as much as playing them
 - 🎨 **Creative Soul** - Believe code and art are inseparable
 - 📚 **Lifelong Learner** - Always exploring new technologies
 - 🌍 **Global Perspective** - Worked with teams from 15+ countries
 - ☕ **Coffee Enthusiast** - Fueled by caffeine and passion for code
+
+</div>
 
 ---
 
